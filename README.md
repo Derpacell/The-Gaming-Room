@@ -1,5 +1,5 @@
 # The-Gaming-Room-ReadME
- Journal entry for Week 8
+ Journal entry for Class Week 8
  
 
 1. Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
@@ -9,7 +9,7 @@
   
 2. What did you do particularly well in developing this documentation?
 
-  - I think I did a good job comparing different operating platforms and explaining why a Linux-based cloud environment was the best choice. I connected my recommendations to the client's requirements instead of simply listing features.
+  - I think I did a pretty darn good job comparing different operating platforms and explaining why a Linux-based cloud environment was the best choice. I connected my recommendations to the client's requirements instead of simply listing features.
 
   
 3. What about the process of working through a design document did you find helpful when developing the code?
